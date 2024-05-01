@@ -14,5 +14,7 @@
 ### Tecnologias que já estudei
 - MATLAB
 - JAVASCRIPT
+- RACKET
+- SCHEME
 - HTML5
 - CSS3

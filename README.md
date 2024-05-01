@@ -18,3 +18,10 @@
 - SCHEME
 - HTML5
 - CSS3
+
+### Um pouco do meu acadêmico
+- Aos 15 anos ingressei para cursar o Ensino Médio (EM) no IFRS, obtendo o 1º lugar no Processo Seletivo.
+- Ainda no EM, aos 16 anos obtive 1º lugar no curso de Engenharia de Software na PUCRS.
+- No mesmo ano de formatura do EM, obtive uma vaga na UFRGS para primeiro semestre no curso de Engenharia Civil pela grande paixão que tinha nas disciplinas de Física e Matemática.
+- No terceiro semestre de Engenharia Civil tive meu primeiro contato com a programação na cadeira de Programação de Métodos Numéricos e resolvi transferir o curso para Ciência da Computação na mesma Universidade de ingresso.
+- No segundo semestre do curso de Ciência da Computação, fui finalista da Maratona de Programação promovida pela SBC e pela UNICAMP.

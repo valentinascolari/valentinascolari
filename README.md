@@ -5,7 +5,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinascolari&hide=javascript,html)
 
 ## Tecnologias que eu utilizo no meu cotidiano 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
     <img align="center" alt="Python" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white/> 
     <img align="center" alt="JAVA" src=https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white/>
     <img align="center" alt="C" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white/>    

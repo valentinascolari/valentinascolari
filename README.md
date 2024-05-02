@@ -1,4 +1,4 @@
-# Olá! Eu sou a Valentina Scolari 👩🏻‍💻
+# Olá! Eu sou a Valentina Scolari 👋🏻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-bechara-scolari/)
 
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40">
 <img src="https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge" height="40" />
 
-### Linguagens que já estudei
+### Linguagens que já estudei 👩🏻‍💻
 
 - MATLAB
 - JAVASCRIPT
@@ -20,7 +20,7 @@
 - HTML5
 - CSS3
   
-### Tecnologias que já estudei
+### Tecnologias que já estudei 💻
 
 - AUTOCAD
 - ARCGIS
@@ -28,7 +28,7 @@
 - SCIDAVIS
 - SCILAB
   
-### Um pouco da minha trajetória acadêmica
+### Um pouco da minha trajetória acadêmica 📚
 
 - Aos 15 anos, ingressei no Ensino Médio (EM) no IFRS, obtendo o 1º lugar no processo seletivo.
 - Ainda no EM, aos 16 anos, obtive o 1º lugar no curso de Engenharia de Software na PUCRS.

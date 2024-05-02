@@ -11,15 +11,21 @@
     <img align="center" alt="C" src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white/>    
     <img align="center" alt="ASSEMBLY" src=https://img.shields.io/badge/_-ASM-6E4C13.svg?style=for-the-badge/>
 
-### Tecnologias que já estudei
+### Linguagens que já estudei
 - MATLAB
-- SCILAB
 - JAVASCRIPT
 - RACKET
 - SCHEME
 - HTML5
 - CSS3
-
+  
+### Tecnologias que já estudei
+- AUTOCAD
+- ARCGIS
+- REVIT
+- SCIDAVIS
+- SCILAB
+  
 ### Um pouco da minha trajetória acadêmica...
 - Aos 15 anos, ingressei no Ensino Médio (EM) no IFRS, obtendo o 1º lugar no processo seletivo.
 - Ainda no EM, aos 16 anos, obtive o 1º lugar no curso de Engenharia de Software na PUCRS.

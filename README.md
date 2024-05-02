@@ -13,6 +13,7 @@
 
 ### Tecnologias que já estudei
 - MATLAB
+- SCILAB
 - JAVASCRIPT
 - RACKET
 - SCHEME

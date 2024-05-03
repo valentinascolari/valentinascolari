@@ -2,8 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-bechara-scolari/)
 
-![Scolari's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinascolari&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinascolari&hide=javascript,html)
+![Scolari's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinascolari&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valentinascolari&hide_progress=true)
 
 ## Tecnologias que eu utilizo no meu cotidiano
 

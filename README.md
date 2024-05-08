@@ -6,7 +6,8 @@
 ### Linguagens que já estudei 👩🏻‍💻
 - Python
 - C
-- ASM
+- ASSEMBLY
+- NEANDER, AHMES, RAMSES E CESAR: ASM
 - JAVA
 - MATLAB
 - JAVASCRIPT
@@ -16,7 +17,7 @@
 - CSS3
   
 ### Tecnologias que já estudei 💻
-
+- DAEDALUS
 - AUTOCAD
 - ARCGIS
 - REVIT

@@ -6,9 +6,9 @@
 ### Linguagens que já estudei 👩🏻‍💻
 - Python
 - C
-- ASSEMBLY
-- NEANDER, AHMES, RAMSES E CESAR: ASM
+- ASSEMBLY (NEANDER, AHMES, RAMSES E CESAR)
 - JAVA
+- SQL
 - MATLAB
 - JAVASCRIPT
 - RACKET

@@ -27,8 +27,8 @@
 ### Um pouco da minha trajetória acadêmica 📚
 
 - Aos 15 anos, ingressei no Ensino Médio (EM) no IFRS, obtendo o 1º lugar no processo seletivo.
-- Ainda no EM, aos 16 anos, obtive o 1º lugar no curso de Engenharia de Software na PUCRS.
-- No mesmo ano de minha formatura do EM, conquistei uma vaga no primeiro semestre do curso de Engenharia Civil na UFRGS, curso que escolhi devido à minha grande paixão pelas disciplinas de Física e Matemática. Além disso, conquistei o 1º lugar no curso de Engenharia Civil na UNISINOS, mas optei pela UFRGS.
+- Ainda no EM, aos 16 anos, conquistei 1º lugar no processo seletivo para o curso de Engenharia de Software na PUCRS.
+- No mesmo ano de minha formatura do EM, conquistei uma vaga para o primeiro semestre do curso de Engenharia Civil na UFRGS, curso que escolhi devido à minha grande paixão pelas disciplinas de Física e Matemática. Além disso, conquistei o 1º lugar no curso de Engenharia Civil na UNISINOS, mas optei pela UFRGS.
 - No terceiro semestre de Engenharia Civil, tive meu primeiro contato com a programação na disciplina de Programação de Métodos Numéricos e decidi transferir meu curso para Ciência da Computação na mesma universidade.
 - No segundo semestre do curso de Ciência da Computação, fui finalista da Maratona de Programação promovida pela Sociedade Brasileira de Computação e pela UNICAMP.
 

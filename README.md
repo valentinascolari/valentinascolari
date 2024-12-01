@@ -29,7 +29,7 @@
 - 1º lugar no PS de ensino médio do IFRS, aos 15 anos.
 - 1º lugar em Engenharia de Software na PUCRS, ainda no ensino médio, aos 16 anos.
 - 1º lugar em Engenharia Civil na UNISINOS e na Uniritter, aos 17 anos.
-- Vaga para Engenharia Civil, 1º semestre na UFRGS, aos 17 anos.
+- Vaga para Engenharia Civil, 1º semestre na UFRGS, aos 18 anos.
 - Finalista da Maratona de Programação promovida pela Sociedade Brasileira de Computação e pela UNICAMP, aos 21 anos.
 
 ### Contato:

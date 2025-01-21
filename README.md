@@ -13,6 +13,7 @@
 - JAVASCRIPT
 - RACKET
 - SCHEME
+- PHP
 - HTML5
 - CSS3
   
@@ -26,11 +27,11 @@
   
 ### Um pouco da minha trajetória acadêmica 📚
 
-- 1º lugar no PS de ensino médio do IFRS, aos 15 anos.
-- 1º lugar em Engenharia de Software na PUCRS, ainda no ensino médio, aos 16 anos.
-- 1º lugar em Engenharia Civil na UNISINOS e na Uniritter, aos 17 anos.
-- Vaga para Engenharia Civil, 1º semestre na UFRGS, aos 18 anos.
-- Finalista da Maratona de Programação promovida pela Sociedade Brasileira de Computação e pela UNICAMP, aos 21 anos.
+- 1º lugar no PSEM - IFRS, 2017;
+- 1º lugar em Engenharia de Software - PUCRS, 2019;
+- 1º lugar em Engenharia Civil - UNISINOS e Uniritter, 2021;
+- 1º semestre Engenharia Civil - UFRGS, 2021.
+- Finalista da Maratona de Programação promovida pela Sociedade Brasileira de Computação e pela UNICAMP, 2024.
 
 ### Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-bechara-scolari/)

@@ -2,7 +2,8 @@
 
 <p align="center">
   Neste espaço compartilho meus estudos e projetos.<br>
-  Atualmente estou cursando <b>Ciência da Computação na UFRGS</b> e faço parte da <b>trilha de Java no Instituto Caldeira</b>.
+  Atualmente estou cursando <b>Ciência da Computação na UFRGS</b>, fui aluna destaque da trilha de <b>Java</b> no <b>Instituto Caldeira 2025</b><br>
+  e estou realizando uma residência em <b>Desenvolvimento de Software</b> no <b>Instituto de Pesquisas Eldorado.</b>
 </p>
 
 <p align="center">

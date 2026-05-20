@@ -1,8 +1,8 @@
 <h2 align="center">Bem-vindo(a), sou Valentina Scolari 👋</h2>
 
 <p align="center">
-  Neste espaço compartilho meus estudos e projetos.<br>
-  Atualmente estou cursando <b>Ciência da Computação na UFRGS</b> e sou Desenvolvedora de Software na <b>ADP.</b> <br> No ano de 2025 fui aluna destaque da trilha de <b>Java</b> no <b>Instituto Caldeira</b><br>
+  Neste espaço compartilho meus estudos e projetos. ✨ <br>
+  Atualmente estou cursando <b>Ciência da Computação</b> na <b>UFRGS</b> e sou Desenvolvedora de Software na <b>ADP.</b> <br> No ano de 2025 fui aluna destaque da trilha de <b>Java</b> no <b>Instituto Caldeira</b><br>
   e realizei uma residência em <b>Desenvolvimento de Software</b> no <b>Instituto de Pesquisas Eldorado.</b>
 </p>
 

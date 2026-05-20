@@ -6,21 +6,6 @@
   e realizei uma residência em <b>Desenvolvimento de Software</b> no <b>Instituto de Pesquisas Eldorado.</b>
 </p>
 
-<p align="center">
-  <img src="assets/logo_instituto_informatica.png"
-       alt="Instituto de Informática - UFRGS"
-       width="140"
-       style="margin: 0 12px;" />
-  <img src="assets/logo_instituto_caldeira.png"
-       alt="Instituto Caldeira"
-       width="140"
-       style="margin: 0 12px;" />
-  <img src="assets/logo_ufrgs.png"
-       alt="UFRGS"
-       width="140"
-       style="margin: 0 12px 0 40px;" />
-</p>
-
 ---
 
 ## 🛠️ Tecnologias & Ferramentas

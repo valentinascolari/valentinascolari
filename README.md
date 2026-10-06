@@ -1,14 +1,14 @@
-<h2 align="center">Bem-vindo(a), sou Valentina Scolari 👋</h2>
+<h2 align="center"> Welcome, I'm Valentina Scolari 👋</h2>
 
-<p align="center">
-  Neste espaço compartilho meus estudos e projetos. ✨ <br>
-  Atualmente estou cursando <b>Ciência da Computação</b> na <b>UFRGS</b> e sou Desenvolvedora de Software na <b>ADP.</b> <br> No ano de 2025 fui aluna destaque da trilha de <b>Java</b> no <b>Instituto Caldeira</b><br>
-  e realizei uma residência em <b>Desenvolvimento de Software</b> no <b>Instituto de Pesquisas Eldorado.</b>
+<p align="center"> In this space, I share my studies and projects. ✨ <br>
+I am currently pursuing a degree in Computer Science at UFRGS and work as a Software Developer at <b>ADP.</b> <br>
+In 2025, I was recognized as the standout student in the Java track at <b>Instituto Caldeira</b> <br>
+and completed a residency in Software Development at <b>Eldorado Research Institute.</b>
 </p>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -21,13 +21,10 @@
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/valentina-bechara-scolari/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/valentinabscolari/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
